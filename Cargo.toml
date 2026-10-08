@@ -1,0 +1,9 @@
+[package]
+name = "betweencut"
+version = "0.1.0"
+edition = "2021"
+authors = ["Teddy Tennant <teddytennant@icloud.com>"]
+description = "BetweenCut: heavy/light classification on a public rooted tree"
+readme = "README.md"
+
+[dependencies]
